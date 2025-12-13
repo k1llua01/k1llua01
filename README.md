@@ -15,6 +15,10 @@
   <img align="center" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJieDRpODVzZ2VjY2ZheGd5c3Exdm95M3lyYTczdHZ3a3Q0dzAxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DY1KSjEuVMarPIzfkq/giphy.gif" />
 </div>
 
+
+<div align="center" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9b5cff&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
 <div align="center">
   
   <b>`プ ロ グ ラ マ`</b>
