@@ -7,7 +7,11 @@
   <img src="https://img.shields.io/badge/🚀_nas_horas_vagas_faço_designer-ff4d8d?style=for-the-badge" />
 </p>
 
-
+<p align="center">
+  <a href="https://open.spotify.com/track/SEU_ID_AQUI">
+    <img src="https://img.shields.io/badge/🎧_Listening_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
+</p>
 
 
 
