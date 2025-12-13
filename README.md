@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/SEU_ID_AQUI">
+  <a href="https://open.spotify.com/track/https://open.spotify.com/intl-pt/track/6qY0pwZyb781h6h2OYcOQw?si=bdc968b7d46e4ae9">
     <img src="https://img.shields.io/badge/🎧_Listening_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </p>
