@@ -1,6 +1,3 @@
-## Salve,
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/💻_Meu_nick_é_Killua-ff4d8d?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🧠_automação_•_scripts_•_bots_•_backend-ff4d8d?style=for-the-badge" />
