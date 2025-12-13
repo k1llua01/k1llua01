@@ -11,7 +11,9 @@
 </div>
 
 <br>
-
+<div align="center">
+  <img align="center" height="150" src="https://i.imgur.com/HEh2gcq.png" />
+</div>
 <div align="center">
   <b>`プ ロ グ ラ マ`</b>
   <samp>
