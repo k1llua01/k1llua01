@@ -1,6 +1,6 @@
 ## Salve,
 
-💻 I'm better known as K1llua  
+💻 My Nickname is Killua
 🧠 automação • scripts • bots • backend  
 🚀 original de uns anos
 
