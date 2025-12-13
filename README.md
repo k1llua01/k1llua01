@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_Meu_nick_é_Killua-ff4d8d?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠_automação_•_scripts_•_bots_•_backend-ff4d8d?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_nas_horas_vagas_faço_designer-ff4d8d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Meu_nick_é_Killua-FF0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_automação_•_scripts_•_bots_•_backend-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_nas_horas_vagas_faço_designer-9146FF?style=for-the-badge" />
 </p>
 
 
 <p align="center">
   <a href="https://open.spotify.com/intl-pt/track/6qY0pwZyb781h6h2OYcOQw?si=bdc968b7d46e4ae9">
-    <img src="https://img.shields.io/badge/🎧_Listening_on_Spotify-000000?style=for-the-badge&logo=spotify&logoColor=white">
+    <img src="https://img.shields.io/badge/🎧_Listening_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </p>
 
