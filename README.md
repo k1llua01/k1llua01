@@ -6,9 +6,6 @@
 
 🚀 original de uns anos
 
-
-<br>
-<br>
 <br>
 
 <div align="center" width="100%">
@@ -35,6 +32,17 @@
   
   ##
  
+  
+<p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=k1llua01&show_icons=true&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1llua01&layout=compact&langs_count=16&theme=radical"/>
+</p>
+
+
+
+</div>
+
+
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -43,12 +51,4 @@
   <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1llua01&show_icons=true&theme=radical)](https://github.com/k1llua01)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1llua01&layout=compact&langs_count=16&theme=radical)](https://github.com/k1llua01)
-
-
-
-</div>
-
+<div> 
