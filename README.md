@@ -42,7 +42,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank" style="text-decoration:none;">
+  <a href="https://www.youtube.com/channel/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://instagram.com/" target="_blank" style="text-decoration:none;">
