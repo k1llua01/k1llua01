@@ -1,6 +1,6 @@
 ## Salve,
 
-💻 by K1llua  
+💻 I'm better known as K1llua  
 🧠 automação • scripts • bots • backend  
 🚀 original de uns anos
 
