@@ -1,8 +1,8 @@
 ## Salve,
 
-💻 My Nickname is Killua
-🧠 automação • scripts • bots • backend  
-🚀 original de uns anos
+<div> 💻 Meu nick é Killua <div>
+<div> 🧠 automação • scripts • bots • backend  <div>
+<div>🚀 nas horas vagas faço designer<div>
 
 <br>
 
