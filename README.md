@@ -1,8 +1,15 @@
 ## Salve,
 
-<div> 💻 Meu nick é Killua <div>
-<div> 🧠 automação • scripts • bots • backend  <div>
-<div>🚀 nas horas vagas faço designer<div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Meu_nick_é_Killua-ff4d8d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_automação_•_scripts_•_bots_•_backend-ff4d8d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_nas_horas_vagas_faço_designer-ff4d8d?style=for-the-badge" />
+</p>
+
+
+
+
 
 <br>
 
