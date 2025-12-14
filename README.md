@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://open.spotify.com/intl-pt/track/6qY0pwZyb781h6h2OYcOQw?si=bdc968b7d46e4ae9">
+  <a href="https://open.spotify.com/intl-pt/track/5dw0ajNqU0dyKQhIDRKH1b?si=6b3fb0671dfc43eb">
     <img src="https://img.shields.io/badge/🎧_Listening_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </p>
