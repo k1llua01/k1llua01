@@ -64,12 +64,6 @@
 #
 
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4200&pause=1200&color=7C3AED&background=0D0B1E&center=true&vCenter=true&width=760&lines=%5Broot%40github%5D%23+initializing+secure+shell...;%5Broot%40github%5D%23+enumerating+git+commit+history...;%5Broot%40github%5D%23+analyzing+repository+objects...;%5Broot%40github%5D%23+access+granted+to+MY_COMMITS"
-    alt="@K1lluaRo0t"
-  />
-</p>
 
 <p align="center">
   <img
