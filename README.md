@@ -63,6 +63,12 @@
 
 #
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/👾_MY_COMMITS-FF00FF?style=for-the-badge&color=white&labelColor=800080" />
+</p>
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k1llua01/k1llua01/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k1llua01/k1llua01/output/github-contribution-grid-snake-dark.svg">
